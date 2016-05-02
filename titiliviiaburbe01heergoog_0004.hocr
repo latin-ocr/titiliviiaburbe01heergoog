@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titiliviiaburbe01heergoog_0004.png"; bbox 0 0 3009 4959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 422 3502 1048 3561">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 422 3502 1048 3561">
+     <span class='ocr_line' id='line_1_1' title="bbox 422 3502 1048 3561; baseline 0.006 -17"><span class='ocrx_word' id='word_1_1' title='bbox 422 3530 430 3543; x_wconf 85' lang='lat'>.·</span> <span class='ocrx_word' id='word_1_2' title='bbox 461 3503 535 3547; x_wconf 82' lang='lat' dir='ltr'>Druck</span> <span class='ocrx_word' id='word_1_3' title='bbox 548 3504 586 3547; x_wconf 78' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_4' title='bbox 598 3505 785 3552; x_wconf 75' lang='lat' dir='ltr'>Sebald&#39;schen</span> <span class='ocrx_word' id='word_1_5' title='bbox 798 3502 877 3550; x_wconf 65' lang='lat' dir='ltr'><strong>officia</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 889 3507 912 3548; x_wconf 82' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 925 3506 1048 3561; x_wconf 74' lang='lat' dir='ltr'>Nfimberg.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1510 4959">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1510 4959">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1510 4959; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1510 4959; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
